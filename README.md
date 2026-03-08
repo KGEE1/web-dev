@@ -1,2 +1,1 @@
-# web-dev
-for complete web development
+feat(web-dev): add complete web development project structure
